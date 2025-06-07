@@ -23,7 +23,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "msdocs-intl-redirect@derlev.xyz",
-      "strict_min_version": "58.0"
+      "strict_min_version": "113.0"
     },
     "gecko_android": {}
   }
